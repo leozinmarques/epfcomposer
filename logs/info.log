@@ -1,0 +1,151 @@
+Info: : 2177 mini-second(s) publishing element CustomCategory:visao_geral[GamesUp\customcategories\visao_geral_DC9D5089.html]
+Info: CustomCategory:visao_geral: 2206 mini seconds publishing element
+Info: : 3569 mini-second(s) publishing element DeliveryProcess:LifeCycleGameUP[GamesUp\deliveryprocesses\LifeCycleGameUP_EF704A17.html]
+Info: DeliveryProcess:LifeCycleGameUP: 3572 mini seconds publishing element
+Info: DeliveryProcess:LifeCycleGameUP: 2719 mini seconds publishing process specific layout data
+Info: Phase:Game Design: 357 mini seconds publishing element
+Info: Activity:Brain Storm: 310 mini seconds publishing element
+Info: Activity:Game Concept Art: 195 mini seconds publishing element
+Info: Activity:Community Meeting: 157 mini seconds publishing element
+Info: Activity:Refine Concept: 215 mini seconds publishing element
+Info: Activity:Engine Choose: 209 mini seconds publishing element
+Info: Phase:Game Development: 335 mini seconds publishing element
+Info: Iteration:Iteration Dev: 279 mini seconds publishing element
+Info: Activity:Script : 173 mini seconds publishing element
+Info: Activity:Game Art Development: 143 mini seconds publishing element
+Info: Activity:Game System Project: 205 mini seconds publishing element
+Info: Activity:Game Brief: 190 mini seconds publishing element
+Info: Iteration:Iteration : 294 mini seconds publishing element
+Info: Activity:Community Meeting: 225 mini seconds publishing element
+Info: Activity:Refine Concept: 313 mini seconds publishing element
+Info: Activity:Game Art Development: 185 mini seconds publishing element
+Info: Activity:Game System Project: 169 mini seconds publishing element
+Info: Activity:Game Brief: 253 mini seconds publishing element
+Info: Phase:Game Demo: 384 mini seconds publishing element
+Info: Activity:Publishers Meet: 281 mini seconds publishing element
+Info: Activity:Publish Demo: 257 mini seconds publishing element
+Info: Activity:Community Meeting: 202 mini seconds publishing element
+Info: Phase:Game Publish: 331 mini seconds publishing element
+Info: Activity:Ga: 199 mini seconds publishing element
+Info: Activity:Game Publish: 223 mini seconds publishing element
+Info: Activity:Game Update: 227 mini seconds publishing element
+Info: TaskDescriptor:New Task Descriptor: 741 mini seconds publishing element
+Info: TaskDescriptor:Breve Historia: 30 mini seconds publishing element
+Info: TaskDescriptor:New Task Descriptor_2: 113 mini seconds publishing element
+Info: TaskDescriptor:New Task Descriptor_3: 45 mini seconds publishing element
+Info: TaskDescriptor:Desenvolver Historia: 185 mini seconds publishing element
+Info: TaskDescriptor:Ambientação: 40 mini seconds publishing element
+Info: TaskDescriptor:Desenvolvimento Personagens: 101 mini seconds publishing element
+Info: TaskDescriptor:Publicação das Artes para Feedback: 48 mini seconds publishing element
+Info: TaskDescriptor:Feedback Comunidade: 247 mini seconds publishing element
+Info: TaskDescriptor:Analise de Feedback: 38 mini seconds publishing element
+Info: TaskDescriptor:Alterações na Art: 48 mini seconds publishing element
+Info: TaskDescriptor:Detalhamento Sobre Historia: 24 mini seconds publishing element
+Info: TaskDescriptor:Reunião Escolha de Software: 173 mini seconds publishing element
+Info: TaskDescriptor:Teste de Software: 38 mini seconds publishing element
+Info: TaskDescriptor:Minigame Para Analise: 200 mini seconds publishing element
+Info: TaskDescriptor:Desenvolver Roteiro: 37 mini seconds publishing element
+Info: TaskDescriptor:Criar Missões Principais: 212 mini seconds publishing element
+Info: TaskDescriptor:Criar Missões Secundarias: 38 mini seconds publishing element
+Info: TaskDescriptor:Desenvolver Ambiente Para Teste: 46 mini seconds publishing element
+Info: TaskDescriptor:Arquiteturar Personagens: 42 mini seconds publishing element
+Info: TaskDescriptor:Desenvolver Movimentação: 108 mini seconds publishing element
+Info: TaskDescriptor:Arquiteturar Ações do Personagem: 54 mini seconds publishing element
+Info: TaskDescriptor:Integrar Roteiro à Ambientação: 40 mini seconds publishing element
+Info: TaskDescriptor:Compilar Demo do Jogo: 46 mini seconds publishing element
+Info: TaskDescriptor:Publicar Game Para Teste: 57 mini seconds publishing element
+Info: TaskDescriptor:Publicar Game Brief: 32 mini seconds publishing element
+Info: TaskDescriptor:Feedback da Comunidade: 93 mini seconds publishing element
+Info: TaskDescriptor:Analise de Feedback: 29 mini seconds publishing element
+Info: TaskDescriptor:Definir Atividades de Mudança: 64 mini seconds publishing element
+Info: TaskDescriptor:Incremento do Ambiente de Jogo: 30 mini seconds publishing element
+Info: TaskDescriptor:Incremento Modelo dos Personagens: 59 mini seconds publishing element
+Info: TaskDescriptor:Incrementar Funcionalidades do Jogo: 41 mini seconds publishing element
+Info: TaskDescriptor:Desenvolvimento Roteiro: 73 mini seconds publishing element
+Info: TaskDescriptor:Compilar Demo do Jogo: 15 mini seconds publishing element
+Info: TaskDescriptor:Publicar Game Para Teste: 19 mini seconds publishing element
+Info: TaskDescriptor:Pesquisa de Publishers: 29 mini seconds publishing element
+Info: TaskDescriptor:Reunião Com Publisher: 82 mini seconds publishing element
+Info: TaskDescriptor:Publicar Game Test na Publisher: 19 mini seconds publishing element
+Info: TaskDescriptor:Pu: 33 mini seconds publishing element
+Info: TaskDescriptor:Analisar Possiveis Melhorias: 28 mini seconds publishing element
+Info: TaskDescriptor:Analis: 53 mini seconds publishing element
+Info: TaskDescriptor:Publicar Game na Publisher: 21 mini seconds publishing element
+Info: TaskDescriptor:Verificar Possiveis Updates: 54 mini seconds publishing element
+Info: RoleDescriptor:Community: 589 mini seconds publishing element
+Info: RoleDescriptor:Game_Artist: 184 mini seconds publishing element
+Info: RoleDescriptor:Game_Programmer: 52 mini seconds publishing element
+Info: RoleDescriptor:Project_Manager: 270 mini seconds publishing element
+Info: RoleDescriptor:Publisher: 19 mini seconds publishing element
+Info: RoleDescriptor:Story_Teller: 101 mini seconds publishing element
+Info: RoleDescriptor:Game_Artist: 38 mini seconds publishing element
+Info: RoleDescriptor:Game_Programmer: 322 mini seconds publishing element
+Info: RoleDescriptor:Project_Manager: 69 mini seconds publishing element
+Info: RoleDescriptor:Story_Teller: 141 mini seconds publishing element
+Info: RoleDescriptor:Project_Manager: 97 mini seconds publishing element
+Info: RoleDescriptor:Game_Artist: 64 mini seconds publishing element
+Info: RoleDescriptor:Game_Programmer: 68 mini seconds publishing element
+Info: RoleDescriptor:Project_Manager: 20 mini seconds publishing element
+Info: RoleDescriptor:Story_Teller: 46 mini seconds publishing element
+Info: RoleDescriptor:Game_Artist: 19 mini seconds publishing element
+Info: RoleDescriptor:Game_Programmer: 42 mini seconds publishing element
+Info: RoleDescriptor:Project_Manager: 82 mini seconds publishing element
+Info: RoleDescriptor:Community: 74 mini seconds publishing element
+Info: RoleDescriptor:Game_Artist: 246 mini seconds publishing element
+Info: RoleDescriptor:Game_Programmer: 24 mini seconds publishing element
+Info: RoleDescriptor:Project_Manager: 497 mini seconds publishing element
+Info: RoleDescriptor:Story_Teller: 201 mini seconds publishing element
+Info: RoleDescriptor:Game_Programmer: 192 mini seconds publishing element
+Info: RoleDescriptor:Project_Manager: 41 mini seconds publishing element
+Info: RoleDescriptor:Game_Artist: 44 mini seconds publishing element
+Info: RoleDescriptor:Game_Programmer: 56 mini seconds publishing element
+Info: RoleDescriptor:Project_Manager: 32 mini seconds publishing element
+Info: RoleDescriptor:Story_Teller: 29 mini seconds publishing element
+Info: RoleDescriptor:Game_Programmer: 26 mini seconds publishing element
+Info: RoleDescriptor:Project_Manager: 22 mini seconds publishing element
+Info: RoleDescriptor:Game_Artist: 17 mini seconds publishing element
+Info: RoleDescriptor:Game_Programmer: 29 mini seconds publishing element
+Info: RoleDescriptor:Project_Manager: 22 mini seconds publishing element
+Info: RoleDescriptor:Story_Teller: 22 mini seconds publishing element
+Info: RoleDescriptor:Project_Manager: 40 mini seconds publishing element
+Info: RoleDescriptor:Game_Artist: 194 mini seconds publishing element
+Info: RoleDescriptor:Story_Teller: 282 mini seconds publishing element
+Info: RoleDescriptor:Game_Artist: 220 mini seconds publishing element
+Info: RoleDescriptor:Game_Programmer: 63 mini seconds publishing element
+Info: RoleDescriptor:Story_Teller: 75 mini seconds publishing element
+Info: RoleDescriptor:Game_Programmer: 86 mini seconds publishing element
+Info: RoleDescriptor:Project_Manager: 51 mini seconds publishing element
+Info: RoleDescriptor:Game_Artist: 33 mini seconds publishing element
+Info: RoleDescriptor:Game_Programmer: 34 mini seconds publishing element
+Info: RoleDescriptor:Project_Manager: 42 mini seconds publishing element
+Info: RoleDescriptor:Story_Teller: 27 mini seconds publishing element
+Info: RoleDescriptor:Project_Manager: 25 mini seconds publishing element
+Info: RoleDescriptor:Publisher: 25 mini seconds publishing element
+Info: RoleDescriptor:Game_Programmer: 24 mini seconds publishing element
+Info: RoleDescriptor:Project_Manager: 23 mini seconds publishing element
+Info: RoleDescriptor:Game_Artist: 32 mini seconds publishing element
+Info: RoleDescriptor:Game_Programmer: 29 mini seconds publishing element
+Info: RoleDescriptor:Project_Manager: 49 mini seconds publishing element
+Info: RoleDescriptor:Publisher: 41 mini seconds publishing element
+Info: RoleDescriptor:Story_Teller: 22 mini seconds publishing element
+Info: RoleDescriptor:Project_Manager: 43 mini seconds publishing element
+Info: RoleDescriptor:Game_Artist: 18 mini seconds publishing element
+Info: RoleDescriptor:Game_Programmer: 67 mini seconds publishing element
+Info: RoleDescriptor:Project_Manager: 28 mini seconds publishing element
+Info: RoleDescriptor:Story_Teller: 23 mini seconds publishing element
+Info: : 4665 mini-second(s) publishing element Role:Community[GamesUp\roles\Community_1D5D1151.html]
+Info: Role:Community: 4669 mini seconds publishing element
+Info: Role:Game_Artist: 159 mini seconds publishing element
+Info: Role:Game_Programmer: 99 mini seconds publishing element
+Info: Role:Project_Manager: 165 mini seconds publishing element
+Info: Role:Publisher: 73 mini seconds publishing element
+Info: Role:Story_Teller: 119 mini seconds publishing element
+Info: Task:Community_Meet: 545 mini seconds publishing element
+Info: Task:Brain_Storm: 26 mini seconds publishing element
+Info: Task:Engine_Analyse: 24 mini seconds publishing element
+Info: Task:Game_Concept_Art: 45 mini seconds publishing element
+Info: Task:Refine_Concept: 32 mini seconds publishing element
+Info: Outcome:Initial_Game_Concept: 709 mini seconds publishing element
+Info: Task:Reunião_Com_Workers_Para_Criação_Jogo: 44 mini seconds publishing element
+Info: Artifact:Game_Idea: 655 mini seconds publishing element
+Info: : Publishing time: 0 minutes 38 seconds
